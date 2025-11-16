@@ -4,3 +4,5 @@ pydub
 werkzeug
 gunicorn
 ffmpeg-python
+numpy
+torch
