@@ -3,3 +3,4 @@ faster-whisper
 pydub
 werkzeug
 gunicorn
+ffmpeg-python
